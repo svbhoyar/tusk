@@ -5,5 +5,6 @@ class A
     Syetem.out.println("Hello");
     Syetem.out.println("Hi");
     Syetem.out.println("How are you");
+    Syetem.out.println("fine");
   }
 }
